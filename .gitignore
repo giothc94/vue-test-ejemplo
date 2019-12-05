@@ -1,0 +1,15 @@
+btc-exchange/node_modules
+btc-exchange/.DS_Store
+btc-exchange/dist
+btc-exchange/.env.local
+btc-exchange/.env.*.local
+btc-exchange/npm-debug.log*
+btc-exchange/yarn-debug.log*
+btc-exchange/yarn-error.log*
+btc-exchange/.idea
+btc-exchange/.vscode
+btc-exchange/*.suo
+btc-exchange/*.ntvs*
+btc-exchange/*.njsproj
+btc-exchange/*.sln
+btc-exchange/*.sw?
